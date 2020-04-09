@@ -6,8 +6,8 @@ Elle insère des linebreaks ("\n") aux bons endroits afin que chaque ligne ait u
 Il n'est pas permis de casser les mots en deux.
 
 ## Setup
-
+  - Forker le projet
   - Importer le projet dans IntelliJ Idea : File > New > Project from Version Control > Git > Rentrer l'url du dépôt
   - Implémenter la méthode dans java > WordWrap
   - Jouer les tests dans java > WordWrapTest
-  - Pousser votre pull request sur le dépôt : git push -u origin <VOTRE_NOM_ET_PRENOM>
+  - Pousser votre pull request sur le dépôt
