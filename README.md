@@ -5,6 +5,8 @@ La fonction wordwrap prend un objet String en entrée et un nombre de colonnes.
 Elle insère des linebreaks ("\n") aux bons endroits afin que chaque ligne ait une longueur inférieure OU égale au nombre de colonnes passé en paramètre.
 Il n'est pas permis de casser les mots en deux.
 
+NB : les "\n" ne comptent pas dans la limite de colonnes !
+
 ## Setup
   - Forker le projet
   - Importer le projet forké dans IntelliJ Idea : File > New > Project from Version Control > Git > Rentrer l'url du dépôt
